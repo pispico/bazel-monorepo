@@ -28,4 +28,4 @@
 .bazelversion
 # User-specific .bazelrc
 user.bazelrc
-venv/
+/venv/
